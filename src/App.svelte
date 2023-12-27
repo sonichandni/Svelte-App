@@ -1,9 +1,11 @@
 <script>
 	import Price from './Price.svelte';
+	import ButtonIncrement from './ButtonIncrement.svelte';
 </script>
 
 <p>Styled!</p>
 <Price />
+<ButtonIncrement />
 <style>
 	p {
 		color: purple;
